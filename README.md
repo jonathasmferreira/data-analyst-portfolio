@@ -1,2 +1,12 @@
-# data-analyst-portfolio
-My data analyst portfolio — projects, exercises and learning logs
+# Data Analyst Portfolio
+
+Repositório de estudos e projetos em análise de dados.
+
+## 🎯 Em construção
+- [ ] Projeto 1: Análise exploratória de ações da B3
+- [ ] Projeto 2: Dashboard financeiro em Power BI
+- [ ] Exercícios Python (P01-P20)
+- [ ] Exercícios SQL (S01-S20)
+
+## 🛠️ Stack
+Python · Pandas · NumPy · Matplotlib · Seaborn · SQL · Power BI
