@@ -2,7 +2,7 @@
 
 Repositório de estudos e projetos em análise de dados.
 
-## 🎯 Em construção
+## 🎯 Em construção (Jun/2026)
 - [ ] Projeto 1: Análise exploratória de ações da B3
 - [ ] Projeto 2: Dashboard financeiro em Power BI
 - [ ] Exercícios Python (P01-P20)
