@@ -10,3 +10,7 @@ Repositório de estudos e projetos em análise de dados.
 
 ## 🛠️ Stack
 Python · Pandas · NumPy · Matplotlib · Seaborn · SQL · Power BI
+
+
+
+<!-- atualizado em 02/06/2026 - teste de sincronização Git -->
