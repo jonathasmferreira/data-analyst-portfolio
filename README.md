@@ -6,6 +6,7 @@ Repositório de estudos e projetos em análise de dados.
 - [ ] Projeto 1: Análise exploratória de ações da B3
 - [ ] Projeto 2: Dashboard financeiro em Power BI
 - [ ] Exercícios Python (P01-P20)
+- [X] P01 — Pandas leitura e exploração
 - [ ] Exercícios SQL (S01-S20)
 
 ## 🛠️ Stack
